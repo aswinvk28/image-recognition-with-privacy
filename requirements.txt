@@ -1,0 +1,8 @@
+jupyter
+torch
+modin
+trdg
+torchvision
+nncf
+textdistance
+lmdb
